@@ -1,2 +1,2 @@
 # Blog
-Connect to HackMD
+Connected to HackMD
